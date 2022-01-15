@@ -11,7 +11,9 @@
    * raspi
      * 树莓派zero w 2信息处理系统源码
    * rpi-backup-master
-     * 树莓派Debian系统备份 
+     * 树莓派Debian系统备份
+   * mixly_taipro
+     * 适配taipro_arduino的米思齐库
      
      
 ### Taipro_Smart_Car
@@ -26,3 +28,5 @@
      * Raspberry pi zero w 2 information processing system source code
    * rpi-backup-master
      * Raspberry pi Debian system backup
+   * mixly_taipro
+     * Adaptive Mixly of taipro_Arduino 
