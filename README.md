@@ -21,7 +21,7 @@
    * Audio_ synthesis
      * Speech synthesis source code
    * ESP-12E
-     * Anxin can esp12-e module audio playback source code
+     * Anxinke esp12-e module audio playback source code
    * raspi
      * Raspberry pi zero w 2 information processing system source code
    * rpi-backup-master
