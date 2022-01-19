@@ -16,8 +16,8 @@
    * mixly_taipro
      * 适配taipro_arduino的米思齐库
 2. **参考文档**
-   * [**ESP8266Audio**](https://github.com/earlephilhower/ESP8266Audio)     
-   * [**树莓派系统备份脚本**](https://github.com/nanhantianyi/rpi-backup)
+   * [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)     
+   * [树莓派系统备份脚本](https://github.com/nanhantianyi/rpi-backup)
 
 ### Taipro_Smart_Car
 1. **catalog introduction**
@@ -34,5 +34,5 @@
    * mixly_taipro
      * Adaptive Mixly of taipro_Arduino 
 2. **Reference documents**
-   * [**ESP8266Audio**](https://github.com/earlephilhower/ESP8266Audio)     
-   * [**Raspberry pi system backup script**](https://github.com/nanhantianyi/rpi-backup)
+   * [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)     
+   * [Raspberry pi system backup script](https://github.com/nanhantianyi/rpi-backup)
