@@ -16,6 +16,8 @@
      * 树莓派Debian系统备份
    * mixly_taipro
      * 适配taipro_arduino的米思齐库
+   * Document
+     * 数据文档
 2. **参考文档**
    * [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)     
    * [树莓派系统备份脚本](https://github.com/nanhantianyi/rpi-backup)
@@ -34,7 +36,9 @@
    * rpi-backup-master
      * Raspberry pi Debian system backup
    * mixly_taipro
-     * Adaptive Mixly of taipro_Arduino 
+     * Adaptive Mixly of taipro_Arduino
+   * Document
+     * Datasheet
 2. **Reference documents**
    * [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)     
    * [Raspberry pi system backup script](https://github.com/nanhantianyi/rpi-backup)
