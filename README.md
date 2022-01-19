@@ -10,7 +10,7 @@
    * ESP-12E
      * 安信可ESP12-E模块音频播放源码
    * raspi
-     * 树莓派zero w 2信息处理系统源码
+     * 树莓派zero 2 W信息处理系统源码
    * rpi-backup-master
      * 树莓派Debian系统备份
    * mixly_taipro
@@ -28,7 +28,7 @@
    * ESP-12E
      * ai-thinker esp12-e module audio playback source code
    * raspi
-     * Raspberry pi zero w 2 information processing system source code
+     * Raspberry pi zero 2 W information processing system source code
    * rpi-backup-master
      * Raspberry pi Debian system backup
    * mixly_taipro
