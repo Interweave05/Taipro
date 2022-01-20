@@ -1,4 +1,9 @@
 # -*- coding:utf-8 -*-
+# pip install pyttsx3
+# author: Interweave
+# date: 2022.1.20 19:57
+# email: interweave@qq.com
+# 效果一般般
 from aip import AipSpeech
 
 APP_ID = '25517271'

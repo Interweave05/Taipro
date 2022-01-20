@@ -15,3 +15,6 @@ import serial
 
 # 实例化串口模块,波特率：9600
 ser = serial.Serial('/dev/ttyAMA0', 9600)
+
+if __name__ == '__main__':
+    pass

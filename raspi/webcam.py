@@ -1,10 +1,12 @@
 # -*- coding: UTF-8 -*-
 import io
-import picamera
 import logging
 import socketserver
-from threading import Condition
 from http import server
+from threading import Condition
+
+import picamera
+
 PAGE = """\
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
