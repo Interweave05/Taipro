@@ -3,7 +3,8 @@
 # author: Interweave
 # date: 2022.1.20 19:57
 # email: interweave@qq.com
-# 效果一般般
+# 效果很差
+
 from aip import AipSpeech
 
 APP_ID = '25517271'
