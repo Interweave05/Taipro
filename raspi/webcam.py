@@ -87,7 +87,7 @@ class StreamingServer(socketserver.ThreadingMixIn, server.HTTPServer):
 
 with picamera.PiCamera(resolution='640x480', framerate=24) as camera:
     output = StreamingOutput()
-    # Uncomment the next line to change your Pi's Camera rotation (in degrees)
+    # 取消注释下一行以更改Pi的相机旋转（以度为单位）
     # camera.rotation = 90
     camera.start_recording(output, format='mjpeg')
     try:
